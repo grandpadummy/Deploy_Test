@@ -1,0 +1,7 @@
+django
+pillow
+djangorestframework
+requests
+psycopg2
+psycopg2-binary
+dotenv
